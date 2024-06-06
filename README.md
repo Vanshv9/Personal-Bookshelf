@@ -1,3 +1,11 @@
+#Steps to run this project locally
+1. Copy the http url from the project repository.
+2. open VS code Terminal and open the folder where you want to add these files.
+3. type git clone {url} and you will get all the files
+4. now just type npm start in the terminal.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
